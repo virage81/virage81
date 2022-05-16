@@ -7,6 +7,13 @@
 - I'm like create new features
 - i'm love automate routine tasks in my life
 
+<br />
+
+### BIO
+
+Полтора года изучаю frontend направление, по-тихоньку верстаю сайты, прохожу курсы. С недавнего времени понял, что напрасно теряю время. Я просто учусь и всё. Пришло время получать опыт. Перепроверил все свои работы в портфолио, переделал Github профиль. Надеюсь в скором времени найду работу.
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,8 +21,6 @@
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-<br />
 
 ### Languages and Tools:
 
@@ -39,7 +44,7 @@
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
 - [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
 - [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-  <!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
 
@@ -50,7 +55,7 @@
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
 - [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
 - [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-  <!-- YOUTUBE:END -->
+        <!-- YOUTUBE:END -->
 
 <details>
   <summary>:zap: Statistics:</summary>
