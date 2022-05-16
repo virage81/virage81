@@ -22,6 +22,8 @@
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -44,7 +46,7 @@
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
 - [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
 - [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-        <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
 
@@ -55,7 +57,7 @@
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
 - [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
 - [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-        <!-- YOUTUBE:END -->
+  <!-- YOUTUBE:END -->
 
 <details>
   <summary>:zap: Statistics:</summary>
