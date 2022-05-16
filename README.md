@@ -1,14 +1,11 @@
 ### Hi there 👋, I'm Vlad
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+## I'm a FrontEnd Developer
 
-## I'm a FrontEnd Developer, and Teacher
-
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube
+- 💪 I'm like to write code
+- 🥅 I'm constantly learning new things
+- I'm like create new features
+- i'm love automate routine tasks in my life
 
 ### Connect with me:
 
@@ -42,7 +39,7 @@
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
 - [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
 - [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-      <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
 
@@ -53,7 +50,7 @@
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
 - [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
 - [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-      <!-- YOUTUBE:END -->
+  <!-- YOUTUBE:END -->
 
 <details>
   <summary>:zap: Statistics:</summary>
