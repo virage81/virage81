@@ -42,7 +42,7 @@
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
 - [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
 - [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-  <!-- BLOG-POST-LIST:END -->
+     <!-- BLOG-POST-LIST:END -->
 
 ### My YouTube Videos:
 
@@ -53,7 +53,7 @@
 - [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
 - [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
 - [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-  <!-- YOUTUBE:END -->
+     <!-- YOUTUBE:END -->
 
 <details>
   <summary>:zap: Statistics:</summary>
@@ -62,4 +62,4 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
 
-[vk]: https://vk.com/muzhik528
+[vk]: https://vk.com/muzhick528
