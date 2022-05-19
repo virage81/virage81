@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vlad
+### Hi there 👋, I'm Bulat
 
 ## I'm a FrontEnd Developer
 
