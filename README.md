@@ -4,8 +4,8 @@
 
 - 💪 I'm like to write code
 - 🥅 I'm constantly learning new things
-- I'm like create new features
-- i'm love automate routine tasks in my life
+- 🖥️ I'm like create new features
+- 🌟 i'm love automate routine tasks in my life
 
 <br />
 
@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111712.png" fill="#fff"/>][vk]
+[<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111712.png"  fill="#fff"/>][vk]
 [<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" fill="#fff"/>][tg]
 [<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" fill="#fff"/>][gmail]
 
