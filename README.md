@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111828.png" fill="#fff"/>][vk]
+[<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111828.png" fill="#000"/>][vk]
 [<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" fill="#fff"/>][tg]
 [<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" fill="#fff"/>][gmail]
 
