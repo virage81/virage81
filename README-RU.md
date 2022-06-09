@@ -27,7 +27,7 @@
 
 [**Data processing**](https://github.com/virage81/Data-Processing)
 
-[![](data-processing-sm.png)](https://github.com/virage81/Data-Processing)
+[![](data-processing.png)](https://github.com/virage81/Data-Processing)
 
 [**Wawe**](https://github.com/virage81/Wawe)
 
