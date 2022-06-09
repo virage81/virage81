@@ -19,15 +19,38 @@ I've been studying the frontend direction for a year and a half, quietly making 
 [<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" fill="#fff"/>][tg]
 [<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" fill="#fff"/>][gmail]
 
-<br />
+<br>
 
-### <p id="languages-and-tools" >Languages and tools:</p>
+## 💥Portfolio💥
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+[**Data processing**](https://github.com/virage81/Data-Processing)
+
+[![](data-processing.png)](https://github.com/virage81/Data-Processing)
+
+[**Wawe**](https://github.com/virage81/Wawe)
+
+[![](wawe.png)](https://github.com/virage81/Wawe)
+
+[**Glee online shop**](https://github.com/virage81/Glee)
+
+[![](glee.png)](https://github.com/virage81/Glee)
+
+### Languages:
+
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<br>
+<br>
+<br>
+
+### What im learning:
+
+<img align="left" alt="REACT" width="50px" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" />
+
+[<img align="center" alt="Cyber Security" width="50px" src="https://cdn-icons.flaticon.com/png/512/2974/premium/2974498.png?token=exp=1654802326~hmac=7d68f9f850854e20049d4b6be5f819fc" />](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)
 
 [vk]: https://vk.com/muzhick528
 [tg]: https://t.me/Bulat_KA18

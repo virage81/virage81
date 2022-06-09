@@ -1,6 +1,4 @@
-<!-- color: #A9ADAD -->
-
 # Choose your language || Выберите ваш язык
 
-[<span>RU</span>](README-RU.md)
-[<span>EN</span>](README-EN.md)
+**[<span>RU</span>](README-RU.md)**
+**[<span>EN</span>](README-EN.md)**
