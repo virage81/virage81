@@ -48,14 +48,14 @@ I've been studying the frontend direction for a year and a half, quietly making 
 
 </div>
 <br>
+<br>
 
 ### What im learning:
 
 <div style="display: flex; gap: 0 10px">
 
 [<img alt="REACT" width="50px" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" />](https://learn-reactjs.ru/tutorial)
-
-[<img align="center" alt="Cyber Security" width="50px" src="https://cdn-icons.flaticon.com/png/512/2974/premium/2974498.png?token=exp=1654802326~hmac=7d68f9f850854e20049d4b6be5f819fc" />](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)
+[<img alt="Cyber Security" width="50px" src="https://cdn-icons.flaticon.com/png/512/2974/premium/2974498.png?token=exp=1654802326~hmac=7d68f9f850854e20049d4b6be5f819fc" />](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)
 
 </div>
 
