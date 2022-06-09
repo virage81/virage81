@@ -37,20 +37,27 @@
 
 ### Языки:
 
+<div style="display: flex; gap: 0 10px">
+
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" width="50px" src="https://cdn-icons-png.flaticon.com/512/332/332124.png" />
+<img align="left" alt="MySQL" width="50px" src="https://cdn-icons-png.flaticon.com/512/402/402214.png" />
 
-<br>
-<br>
+</div>
 <br>
 
 ### Что учу на данный момент:
 
-<img align="left" alt="REACT" width="50px" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" />
+<div style="display: flex; gap: 0 10px">
+
+[<img alt="REACT" width="50px" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" />](https://learn-reactjs.ru/tutorial)
 
 [<img align="center" alt="Кибербезопасность" width="50px" src="https://cdn-icons.flaticon.com/png/512/2974/premium/2974498.png?token=exp=1654802326~hmac=7d68f9f850854e20049d4b6be5f819fc" />](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)
+
+</div>
 
 [vk]: https://vk.com/muzhick528
 [tg]: https://t.me/Bulat_KA18
