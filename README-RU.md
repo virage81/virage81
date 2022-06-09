@@ -21,6 +21,22 @@
 
 <br />
 
+<br />
+
+## Портфолио
+
+[**Data processing**](https://github.com/virage81/Data-Processing)
+
+[![](data-processing-sm.png)](https://github.com/virage81/Data-Processing)
+
+[**Wawe**](https://github.com/virage81/Wawe)
+
+[![](wawe.png)](https://github.com/virage81/Wawe)
+
+[**Glee интернет-магазин**](https://github.com/virage81/Glee)
+
+[![](glee.png)](https://github.com/virage81/Glee)
+
 ### Языки и инструменты:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,20 +44,6 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<br />
-
-### Портфолио
-
-[![data-processing.png](data-processing.png)](https://github.com/virage81/Data-Processing)
-
-[![data-processing.png](data-processing.png)[TEXT](https://github.com/virage81/Data-Processing)]
-
-![https://github.com/virage81/Wawe](data-processing.png)
-
-![](https://github.com/virage81/Wawe)
-
-![](https://github.com/virage81/Glee)
 
 [vk]: https://vk.com/muzhick528
 [tg]: https://t.me/Bulat_KA18
