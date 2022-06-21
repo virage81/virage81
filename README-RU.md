@@ -25,15 +25,15 @@
 
 [**Data processing**](https://github.com/virage81/Data-Processing)
 
-[![](data-processing.png)](https://github.com/virage81/Data-Processing)
+[![](data-processing.png)](https://virage81.github.io/Data-Processing)
 
 [**Wawe**](https://github.com/virage81/Wawe)
 
-[![](wawe.png)](https://github.com/virage81/Wawe)
+[![](wawe.png)](https://virage81.github.io/Wawe)
 
 [**Glee интернет-магазин**](https://github.com/virage81/Glee)
 
-[![](glee.png)](https://github.com/virage81/Glee)
+[![](glee.png)](https://virage81.github.io/Glee)
 
 ### Языки:
 
