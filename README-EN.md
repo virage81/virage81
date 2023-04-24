@@ -16,9 +16,9 @@ just learning and that's it. It's time to gain experience. Rechecked all my work
 
 ### Connect with me:
 
-[<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111712.png"  fill="#fff"/>][vk]
-[<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" fill="#fff"/>][tg]
-[<img align="left" alt="Bulat Karimov | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" fill="#fff"/>][gmail]
+[<img align="left" alt="Bulat Karimov | VK" width="22px" src="img/icons/vk.svg"/>][vk]
+[<img align="left" alt="Bulat Karimov | TG" width="22px" src="img/icons/telegram.svg"/>][tg]
+[<img align="left" alt="Bulat Karimov | Gmail" width="22px" src="img/icons/gmail.svg"/>][gmail]
 
 <br>
 
