@@ -11,7 +11,8 @@
 
 ### BIO
 
-I've been studying the frontend direction for a year and a half, quietly making up websites, taking courses. Recently I realized that I was wasting my time. I'm just learning and that's it. It's time to gain experience. Rechecked all my work in the portfolio, redid the Github profile. I hope to find a job soon.<br />
+I've been studying the frontend direction for a year and a half, quietly making up websites, taking courses. Recently I realized that I was wasting my time. I'm
+just learning and that's it. It's time to gain experience. Rechecked all my work in the portfolio, redid the Github profile. I hope to find a job soon.<br />
 
 ### Connect with me:
 
@@ -25,37 +26,39 @@ I've been studying the frontend direction for a year and a half, quietly making 
 
 [**Data processing**](https://github.com/virage81/Data-Processing)
 
-[![](data-processing.png)](https://virage81.github.io/Data-Processing)
+[![](img/sites/data-processing.png)](https://virage81.github.io/Data-Processing)
 
 [**Wawe**](https://github.com/virage81/Wawe)
 
-[![](wawe.png)](https://virage81.github.io/Wawe)
+[![](img/sites/wawe.png)](https://virage81.github.io/Wawe)
 
 [**Glee online shop**](https://github.com/virage81/Glee)
 
-[![](glee.png)](https://virage81.github.io/Glee)
+[![](img/sites/glee.png)](https://virage81.github.io/Glee)
 
 ### Languages:
 
 <div style="display: flex; gap: 0 10px">
 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="50px" src="https://cdn-icons-png.flaticon.com/512/332/332124.png" />
+<img align="left" alt="HTML5" width="50px" src="img/icons/html5.svg" />
+<img align="left" alt="CSS3" width="50px" src="img/icons/css3.svg" />
+<img align="left" alt="Sass" width="50px" src="img/icons/sass.svg" />
+<img align="left" alt="JavaScript" width="50px" src="img/icons/js.svg" />
+<img align="left" alt="PHP" width="50px" src="img/icons/php.svg" />
 <img align="left" alt="MySQL" width="50px" src="https://cdn-icons-png.flaticon.com/512/402/402214.png" />
-
+<img align="left" alt="C#" width="50px" src="img/icons/csharp.svg" />
+  
 </div>
+
 <br>
 <br>
 
-### What im learning:
+### What i'm learning:
 
 <div style="display: flex; gap: 0 10px">
 
-[<img alt="REACT" width="50px" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" />](https://learn-reactjs.ru/tutorial)
-[<img alt="Cyber Security" width="50px" src="https://cdn-icons.flaticon.com/png/512/2974/premium/2974498.png?token=exp=1654802326~hmac=7d68f9f850854e20049d4b6be5f819fc" />](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)
+[<img alt="REACT" width="50px" src="img/icons/react.svg" />](https://learn-reactjs.ru/tutorial)
+[<img alt="Кибербезопасность" width="50px" src="img/icons/cybersafety.svg" />](https://www.kaspersky.ru/resource-center/definitions/what-is-cyber-security)
 
 </div>
 
