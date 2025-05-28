@@ -3,7 +3,7 @@
 # Karimov Bulat
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=virage81&theme=tokyonight-duo&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&card_height=195&background=0C1117)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=virage81&theme=tokyonight&hide_rank=false&hide_title=false&hide_border=true&bg_color=0C1117)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=virage81&theme=tokyonight&hide_rank=true&hide_title=false&hide_border=true&bg_color=0C1117)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
