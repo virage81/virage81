@@ -45,19 +45,6 @@
 
 - 2020.09-2024.06 Kalashnikov Izhevsk State Technical University
 
-## Skills
-
-<div style="display: flex; gap: 0 10px">
-
-<img align="left" alt="HTML5" width="50px" src="img/icons/html5.svg" />
-<img align="left" alt="CSS3" width="50px" src="img/icons/css3.svg" />
-<img align="left" alt="Sass" width="50px" src="img/icons/sass.svg" />
-<img align="left" alt="JavaScript" width="50px" src="img/icons/js.svg" />
-<img align="left" alt="PHP" width="50px" src="img/icons/php.svg" />
-<img align="left" alt="MySQL" width="50px" src="https://cdn-icons-png.flaticon.com/512/402/402214.png" />
-  
-</div>
-
 ## BIO
 
 Frontend developer with more than 2 years of commercial experience.
