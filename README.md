@@ -47,9 +47,7 @@
 
 ## BIO
 
-Frontend developer with more than 2 years of commercial experience.
-
-Portfolio is in development stage. Got a couple of pet projects that has to be done. They're private yet
+Frontend developer with more than 4 years of commercial experience.
 
 ## Connect with me
 
